@@ -28,7 +28,7 @@ Iris Virginica: This species is similar in appearance to Iris versicolor but ten
   -  Handle outliers using the Winsorizing technique.
 
 - **Model Building:**
-  - Choose a machine learning algorithm suitable for binary classification (e.g.KNN classification).
+  - Choose a machine learning algorithm suitable for binary classification (e.g.Logistics regression,Random forest).
   - Split the dataset into training and testing sets for model evaluation.
 
 - **Training the Model:**
