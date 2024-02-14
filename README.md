@@ -17,7 +17,7 @@
 - Implemented model evaluation and visualization techniques to interpret results.
 
 - # 3)Iris Flower Classification
-- The Iris Flower Classification task involves predicting the species of iris flowers based on certain features here I am using KNN Machine Learning algorithms.
+- The Iris Flower Classification task involves predicting the species of iris flowers based on certain features here I am using Random Forest And Logistics Regression.
 - Engaged in feature selection, engineering, and thorough model evaluation.
 - Utilized Python for data exploration, modeling, and visualization.
 
